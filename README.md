@@ -1,1 +1,2 @@
 # webprojelerim
+kendimi geliştiriyorum
